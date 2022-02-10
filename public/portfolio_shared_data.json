@@ -1,0 +1,183 @@
+{
+    "basic_info": {
+      "name": "Faiz Prasla",
+      "titles": ["Smart Contract Developer", "Full-stack Developer", "Web Developer", "Network Administrator" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/faiz-prasla-7a65141a8/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "email",
+          "url": "mailto:momin.faiz1@gmail.com",
+          "class": "fa fa-envelope"
+        }
+      ],
+      "image": "myProfile.JPG"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Ethereum",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "MetaMask",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "Solidity",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "Remix",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "Gananche",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "Chainlink",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "OpenZeppelin ",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "IPFS",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "WEB3 Library",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "Truffle",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "Chai",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "Moralis",
+          "class": "fa fa-image",
+          "level": "95"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Mocha",
+          "class": "devicon-mocha-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "Bootstap",
+          "class": "devicon-bootstrap-plain",
+          "level": "80"
+        },
+        {
+          "name": "TailwindCSS",
+          "class": "devicon-tailwindcss-plain",
+          "level": "80"
+        },
+        {
+          "name": "Material-UI",
+          "class": "devicon-materialui-plain",
+          "level": "80"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "90"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "90"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "90"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "75"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "60"
+        },
+        {
+          "name": "Heroku",
+          "class": "devicon-heroku-original",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "GitLab",
+          "class": "devicon-gitlab-plain",
+          "level": "60"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

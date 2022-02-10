@@ -1,0 +1,357 @@
+{
+    "basic_info": {
+      "description_header": "Hi,",
+      "description": "👋 My name is Faiz Prasla and I'm a recent graduate in Computer Science from university of Texas at Austin. I'm passionate about learning different technologies and getting self-started. Over time, I've learned to develop software, design front-end web pages, deploy tradtional networks on-site/cloud, and do pen testing on web-apps. I'm currently learning about L1 blockchains and developing Ethereum dapps in solidity.",
+      "philosophy": "I’m a young and motivated individual who is a self-starter and I never shy away from learning new things or solving difficult problems. I enjoy and prefer working at small fast paced companies/startups. I’m committed to working in the blockchain industry, a skill and subject I am deeply passionate about.",
+      "preference": "I’m looking for a smart contract developer role, remote or on-site, where I can work in a team enviroment and learn from the best professionals.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects under Construction",
+        "skills": "Skills",
+        "education": "Education",
+        "expertise": "Non-Techincal Expertise",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "DEX Exchange Dapp",
+        "startDate": "2022",
+        "description": "*I am currently working on the project.* Building a dex similar to UNISWAP with the use of Moralis to get current pricing. Morlis integrates with chainlink to provide off chain price data. The project will include a way to transfer any token in addition to charts were users can see the price of a token over time.",
+        "images": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Personal Token Exchange Dapp",
+        "startDate": "2022",
+        "description": "*Project, images, and detailed describtion will be added by 2/15* Personal ERC20 token which can be swapped with a ETH token. 1ETH = 100 Faiz Token.",
+        "images": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Morder Golf Consulting",
+        "startDate": "2022",
+        "description": "*Project, images, and detailed describtion will be added by 2/15* Website can be found at ModernGolfConsulting.com. Addtional functionality such as shopping cart and email susbscriber campaign is still in works.",
+        "images": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Basic Voting Dapp",
+        "startDate": "2022",
+        "description": "*Project, images, and detailed describtion will be added by 2/15* Basic dapp where users can cast a ballot for the candidate of liking. No users can of course cast a ballot twice.",
+        "images": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Winter Haven Capital",
+        "startDate": "2022",
+        "description": "*Project, images, and detailed describtion will be added by 2/15*.",
+        "images": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Lendova",
+        "startDate": "2022",
+        "description": "*Project, images, and detailed describtion will be added by 2/15*. I will cloud network schemas and logical network topography. Unfortunately, I will not be able to upload WAF pictures or any configurations.",
+        "images": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "American Heritage Capital",
+        "startDate": "2022",
+        "description": "*Project, images, and detailed describtion will be added by 2/15*. I will try to upload network schemas and logical network topography. Unfortunately, I will not be able to upload firewall pictures or any configurations.",
+        "images": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "company": "University of Texas at Austin(Austin, Texas)",
+        "title": "BS in Computer Science",
+        "description": "",
+        "years": "2018 - Dec. 2021",
+        "mainTech": [
+          "Software Engineering"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+      "company": "University of Texas at Arlington (Arlington, Texas)",
+      "title": "",
+      "description": "",
+      "years": "2017 - 2018",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+      {
+        "company": "Carroll Senior High School(Southlake, Texas)",
+        "title": "",
+        "description": "",
+        "years": "2013 - 2017",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          ""
+        ]
+      }
+
+    ],
+    "expertise": {
+      "icons": [
+        {
+          "title": "Mortage Post Closer",
+          "description": "I gained experience and learned about the mortgage industry, specifically, directly communicating and working with title companies, investors and loan production team members."
+        },
+        {
+          "title": "Mortage Processor",
+          "description": "I processed refiance and purchase loans and learned more indepth knowledge about the mortgage industry. I learned to interact with differnent types of borrowers on daily basis and I directly interacted insurance companies, IRS agents, title companies and borrower's employers."
+        }
+
+      ]
+    },
+    "experience": [
+      {
+        "company": "Modern Golf Consulting(MGC)",
+        "title": "Web Developer",
+        "description": "I'm currently working with MGC startup to deploy a new web application and refine the entire user experience. My responsibilities includes:",
+        "responsibilities" : [
+          "Designing a totally new front-end experience",
+          "Develop and deploy front-end design with appropriate user device optimizations",
+          "Unit testing the web application with proper code documentation for future engineers",
+          "Developing features such as shopping cart, subscriber list, and email campaigns."
+        ],
+        "years": "01.2022 - present (Contract)",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "ReactJS",
+          "JavaScript",
+          "Python",
+          "Shopify",
+          "Mocha",
+          "Netlify",
+          "Flask"
+        ]
+      },
+      {
+        "company": "Lendova",
+        "title": "Cloud Consultant",
+        "description": "A network administator and I worked at Lendova to migrate their web traffic over to the cloud.",
+        "responsibilities": [
+          "Architecting new cloud enviroment with Barracuda web application fireall(WAF) and Load balancer",
+          "Implenting in-bound/out-bound redunduncy",
+          "Implenting GEO-IP based blocking, bot protection, and DDos monitoring system",
+          "Migrating all https and twillio(voice over https) traffic over to Barrcuda WAF"
+
+        ],
+        "years": "01.2022 - 01.2022 (Contract)",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Barracuda WAF",
+          "Load Balacer",
+          "Webservers",
+          "MaxMind",
+          "Load balancer"
+        ]
+      },
+
+      {
+        "company": "Winter Haven Capital(WHC)",
+        "title": "Full-Stack Engineer",
+        "description": "At WHC startup we aimed at developing a social network where financial influencers can meet retail investor.",
+        "responsibilities": [
+          "Worked on a new front-end experience for customers",
+          "Helped with backend flask app and Plaid API integration",
+          "Deploying and maintaining Firebase Db",
+          "Market validation and pitching to investors",
+          "Secured the web application to protect against OWASP top 10 vulnerabilities"
+
+        ],
+        "years": "01.2022 - 01.2022 (Full-time then part-time)",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Firebase Db",
+          "ReactJS",
+          "JavaScript",
+          "Plaid API",
+          "React-Plotly",
+          "Burp Suite",
+          "Metasploit",
+          "NMAP"
+        ]
+      },
+
+      {
+        "company": "American Heritage Capital",
+        "title": "Network Administrator",
+        "description": "At American Heritage Capital, I was tasked with Re-deploying a new high availability network that supports 70+ employees in Dallas and an offshore office.",
+        "responsibilities": [
+          "Architecturing on-site Pfsense Firewall solution",
+          "Creating different subnets for different traffic like DMZ",
+          "Deploying RDP gateways for remote connection for all employees",
+          "Outbound Wan Failover, high availibity through HA link and CARP",
+          "Other features such as Snort for IPS/IDS, Squid for proxy, OpenVPN for VPN access, and GEO IP based blocking",
+          "Maintaining network and providing support to developers and loan production employees for the following years"
+
+        ],
+        "years": "08.2018 - 11.2018(Full-time) 11.2018 - 10.2021(Contract)",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "PfSense",
+          "RDP Gateways",
+          "CARP",
+          "MaxMind",
+          "Squid",
+          "OpenVPN",
+          "Snort"
+        ]
+      }
+
+    ]
+}
